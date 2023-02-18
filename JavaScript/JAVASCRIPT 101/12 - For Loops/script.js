@@ -14,6 +14,8 @@ let population = 100;
 
 // console.log(population);
 
+//Lesson to do as for loop
+
 for(let i = 0; i < 10; i++){
   population *= 1.05;
 }
